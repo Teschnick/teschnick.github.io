@@ -53,7 +53,11 @@ author:
   dribbble         : # Username
   github           : "Teschnick"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")  
+  links:
+    - label: "itch.io"
+      icon: "fas fa-gamepad"
+      url: "https://teschnick.itch.io"  
 
   # Social media
   artstation       : # Username
