@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate courses"
 permalink: /teaching/uni_teaching
 venue: "University of Technology Chemnitz, Professorship Production System and Processes"
-date: "2023-2025"
+date: 2023-01-01
 location: "Chemnitz, Germany"
 ---
 

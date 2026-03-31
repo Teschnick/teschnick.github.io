@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop for teachers"
 permalink: /teaching/workshop_teaching
 venue: "University of Technology Chemnitz, Professorship Production System and Processes"
-date: "2025"
+date: 2025-01-01
 location: "Chemnitz, Germany"
 ---
 
