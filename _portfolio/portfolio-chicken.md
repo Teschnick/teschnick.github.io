@@ -1,6 +1,6 @@
 ---
 title: "Brackeys Game Jam 2025.2 Entry"
-excerpt: "Mini game that was developed for Brackey Game Jam 2025<br/><img src='/images/brackeys2025'>"
+excerpt: "Mini game that was developed for Brackey Game Jam 2025<br/><img src='/images/brackeys2025.png'>"
 collection: portfolio
 ---
 

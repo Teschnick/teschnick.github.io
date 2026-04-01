@@ -49,11 +49,11 @@ $caption-font-family        : $serif;
 
 @include breakpoint-set("to ems", true);
 
-$small                      : 600px !default;
+$small                      : 550px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
-$x-large                    : 1280px !default;
+$x-large                    : 1180px !default;
 
 /* ==========================================================================
    Grid
