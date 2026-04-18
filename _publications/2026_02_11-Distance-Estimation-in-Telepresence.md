@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026_02_11-Distance-Estimation-in-Telepresence
 excerpt: 'This paper proposes the design and evaluation of a study on distance perception in a monoscopic telepresence environment.'
 date: 2026-02-11
-venue: 'AHFA International'
+venue: 'AHFE International'
 paperurl: 'https://openaccess.cms-conferences.org/publications/book/978-1-964867-76-2/article/978-1-964867-76-2_25'
 citation: 'Weidensager, N., Brade, J., Winkler, S., Klimant, F., Klimant, P.  (2026). &quot;Distance Estimation in a Telepresence Scenario Using a 360° Monoscopic Camera, an AGV and an HMD.&quot; In: Tareq Ahram, Waldemar Karwowski, Laura Giraldi and Elisabetta Benelli (eds) Intelligent Human Systems Integration (IHSI 2026): Disruptive and Innovative Technologies. AHFE (2026) International Conference. AHFE Open Access, vol 200. AHFE International, USA.
 http://doi.org/10.54941/ahfe1007084'
